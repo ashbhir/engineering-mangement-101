@@ -2,7 +2,7 @@
 Summary of all things related to management or self-help
 
 ### [Project Management](#Project-Management-1)
-### [People Management](#People-Management-1)
+### [Management 101](#Management)
 ### [Team Leadership](#Team Leadership-1)
 
 # Project Management 
@@ -61,9 +61,275 @@ The Three Ways can be broken down as:
 - The Third Way — Use the efficiencies gained in The First Way and the safety enforced by The Second Way to introduce rapid experiments that help create qualitative gains.
 The idea is that by following The Three Ways, your company will outpace competitors by orders of magnitude and will win in the marketplace by creating value for customers superior to its competitors.
 
-# People Management
+# Management
 
 ## Managers Path Summary
+
+### Chapter 1 - Management 101
+#### What to expect from a manager:
+- Grow your career:
+- Help find the training/conf/books.
+- Find “stretch” projects.
+- Feedback.
+- Figure out what you need to learn.
+- Understand what to focus on and enable you to have that focus.
+- Take your manager’s job.
+- Find a sense of purpose in day-to-day by connecting what you do with the overall picture.
+
+#### 1-2-1 purpose:
+- Create human connection.
+- Discuss privately.
+- Not a status meeting.
+- Must be regular.
+#### Feedback:
+- Public for praise, private for criticism.
+- Behavioural feedback.
+#### How to be managed:
+- Spend time thinking about what you want.
+- You are responsible for yourself.
+- The only person you can change is yourself.
+- Asking for advice is a way of showing trust and respect.
+### Chapter 2 - Mentoring
+- Listening is a precursor to empathy.
+### Chapter 3 - Tech Lead
+- Not a point in the ladder, but a temporal role.
+- At least 30% time coding.
+- Main new skill: project management.
+- Learn how to balance your time of tech work vs management work.
+- If you want autonomy over your work, you must gain mastery over your time.
+#### Tech Lead roles:
+- Software developer.
+- System architect.
+- Business analysts.
+- Project planner.
+- Team leader.
+- Expect the tech lead position to be a big increase in responsibility and workload.
+#### Project management is a necessary pain:
+- Break deliverables into small tasks.
+- Sort task in the most efficient way.
+- Push through unknowns.
+#### Successful team leads excel at communication:
+- Read/write.
+- Speak/listen.
+- Note taking.
+### Chapter 4 - Managing People
+#### New hire:
+- First 1-2-1 questions.
+- Create a 30/60/90 plan.
+#### 1-2-1 styles:
+##### TODO list:
+- Professional and efficient but cold.
+- Forces to think beforehand.
+- Items to discuss should be worth the face to face time.
+##### Catch-up:
+- Listen to what report thinks is most important.
+- Careful with too much complaining.
+##### Feedback meeting:
+- Quarterly enough for career development.
+- Review process towards goals.
+- Progress report (when managing managers).
+- Get to know your report at a personal level.
+- Take notes in a shared document.
+#### Delegate effectively:
+Do not “intervene” if:
+- Team is making progress on its goals.
+- System’s are stable.
+- Product manager is happy.
+```
+If a team has no goals, use what you want to monitor to help them create one.
+Gather information yourself from system instead of asking the team.
+```
+#### Continuous feedback:
+- You must know your people.
+- Forces you to pay attention to individuals.
+- Makes it easy to foster talent.
+- Practice tricky conversations in the small.
+- Weekly for everyone who reports to you.
+- Start with positive feedback.
+#### Performance reviews:
+- Include the whole year: summarize the 1-2-1.
+- It is not a one hour process, but much longer.
+- Use concrete examples to avoid bias.
+- Spend plenty of time on accomplishments.
+- Keep the areas of improvement focus.
+- Real potential in people show itself quickly.
+- Keep an eye out for opportunities for your team members to stretch themselves and grow.
+### Chapter 5 - Managing a team
+New set of skills and challenges.
+#### Engineering managers:
+- Must be technically credible to get the respect of the engineering team.
+- Keep contributing to code so you can see the bottlenecks.
+#### Dysfunctional teams:
+- Not shipping: Tools/processes poor.
+- People drama: negative, brilliant jerk, gossip.
+#### Unhappiness due to overwork:
+- Pay tech debt.
+- If time-critical release:
+- Play cheerleader.
+- Cut features.
+- Push back date.
+- Contribute.
+#### Collaboration problems:
+##### With other teams:
+- Regular catch up with peers to work through issues.
+- Actionable feedback.
+##### Within the team:
+- Team building activities.
+- Learn enough about the product and customers.
+- Long term vision of technology and product.
+- Create a safe environment for disagreement to work itself out.
+### Managing conflict:
+- Don’t rely exclusively on voting.
+- Set up clear process to depersonalize decisions.
+- Don’t turn a blind eye on simmering issues.
+- Don’t take it out on the other teams.
+- Be kind, not nice.
+- Don’t be afraid of conflict.
+### Psychological safety: 
+- you are willing to take risks and make mistakes in front of others.
+- Don’t hire brilliant jerks as it is too difficult to get rid of one.
+- Get rid of the people that don’t respect you as a manager, or the team.
+### Non-communicator:
+- Raise his habits asap.
+- Find the root cause of the hiding.
+### Advanced project management:
+- Use agile for short term.
+- 10 productive weeks per quarter.
+- Budget 20% for tech debt.
+- Cut features as deadline approaches.
+- Spend time planning and estimating.
+### Chapter 6 - Managing Multiple Teams
+- No more coding. You will miss coding.
+- Be fluent in at least one programming language before taking this role.
+- Manage your own time: Eisenhower Matrix.
+- How much time did you spent on non-urgent but important tasks?
+#### Delegate:
+- Simple	Delegate (if Frequest)	Do it yourself (if Infrequent)
+- Complex	Delegate carefully (if Frequest)	Delegate for training (if Infrequent)
+Delegation is essential for career growth.
+#### Ways to say no:
+- “YES, AND …” state what would require to say yes or what it will impact.
+- Create policies that clearly define what is needed for a yes.
+- “Help me say yes”: ask questions.
+- “Not right now”: you must do something later.
+- Ask a peer to say no in your behalf.
+- Don’t delay saying no.
+```
+Your technical focus at this level is to improve the system of work that your developers are operating within.
+Durable teams are built on a shared purpose that comes from the company itself, and they align themselves with the company’s values.
+As a manager, your first team is not the people that report to you but your peers.
+```
+#### Ask yourself:
+- Can I do this faster (by cutting scope)?
+- Do I need to be doing this at all?
+- What value am I providing with this work?
+### Chapter 7 - Managing Managers
+Same as managing multiple teams, but an order of magnitude bigger. New set of skills.
+Things are obscured by the additional level of abstraction.
+Skip-Level meetings:
+Critical to build trust and engagement.
+Either quarterly 1-2-1 or group lunches.
+Prompts in page 129.
+Open-Door policy does not work.
+Managers should make your life easier, by bringing clear problems before they turn into raging fires.
+Make managers accountable for their teams.
+New managers need a lot of coaching:
+How to do 1-2-1.
+How to let go previous work.
+How to not become a control freak.
+Find external training.
+Management is a very culture-specific task,
+Hence is better to promote people that has been in the company for long and already understand the culture.
+Culture fit more important than industry-specific knowledge.
+Hiring managers - Page 140:
+Do reference checks.
+Managing outside your skill set: be curious, ask questions, learn.
+Boring meetings are a sign of dysfunctional teams.
+People need to feel an understanding and connection with the purpose of their work.
+Your technical responsibility is to optimize tech investments by matching it to future product or customer needs.
+### Chapter 8 - The Big Leagues
+As tech senior managers, we bring a willingness to embrace and drive change as needed.
+Be a leader; your company looks to you for:
+What to do.
+Where to go.
+How to act.
+How to think.
+What to value.
+Make hard decisions without perfect information.
+Understand current business landscape and plan for possible futures.
+Hold individuals/teams accountable.
+4 tasks:
+Information gathering or sharing.
+Nudging.
+Decision making.
+Role modeling.
+Possible roles:
+R&D.
+Tech strategy.
+Organization.
+Execution.
+External face of technology.
+Infrastructure and tech operations manager.
+Business executive.
+CTO must care about business and shape business strategy through the lens of technology.
+CTO without management responsibilities will have little influence.
+To make something top priority, ou need to explicitly kill or postpone in-flight work.
+You need to communicate things three or more times before it sinks.
+Setting strategy:
+Improve operational efficiency.
+Expand features.
+Grow the business.
+It entitles:
+Tech architecture.
+Team structure.
+Understanding direction of business.
+Delivery bad news:
+Do it by individuals or small groups.
+Must be in-person.
+Don’t force yourself to delive if you cannot stand behind it.
+Be honest.
+CEO as a boss:
+Getting 1-2-1 time is a challenge.
+Bring topics, set up agenda.
+Bring solutions, not problems.
+Ask for advice.
+Don’t be afraid of repeating yourself.
+Be supportive.
+Look for coaching and skills development in other places.
+Your team:
+Peers in other functions.
+First focus on the success of business, then on their departments.
+You trust them as experts in their areas.
+You trust they are not trying to undermine you.
+Disagreement in leadership team is ok, but once a decision is made, team shows a united front.
+You need to detach from your previous team:
+Avoid having favourites.
+People to take you seriously.
+People will copy your behaviours.
+Your presence will change the behaviour.
+Do not discuss uncertainty with your old peers.
+Care even more about individuals.
+True North: core principles that a person in a functional role must keep in mind as he does his job.
+### Chapter 9 - Bootstrapping Culture
+You need an hypothesis to learn from new processes and structures.
+Structure allow to scale, diversify and take on more complex long-term tasks.
+We learn the most from failures: examine failures to decide what structure needs to be added.
+Culture is how things get done, without people having to think about it – Frederick Laloux.
+You will be measured against the company’s values.
+If your values are not those of the company, you will struggle.
+Culture:
+Map company values to tech team, maybe adding a couple that are specially important.
+Reinforce by rewarding people that exhibit the values in a positive way.
+Use when hiring.
+Create a career ladder - Page 202.
+Process is risk management.
+Conclusion
+You have to be able to manage yourself if you want to be good at managing others.
+You need to understand yourself.
+Masters of working through conflict.
+Meditate.
+Get curious.
+Look for the other side of the story.
 
 # Team Leadership
 
