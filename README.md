@@ -114,7 +114,7 @@ The idea is that by following The Three Ways, your company will outpace competit
 - Note taking.
 ### Chapter 4 - Managing People
 #### New hire:
-- First 1-2-1 questions.
+- [First 1-2-1 questions](https://larahogan.me/blog/first-one-on-one-questions/).
 - Create a 30/60/90 plan.
 #### 1-2-1 styles:
 ##### TODO list:
@@ -201,7 +201,7 @@ New set of skills and challenges.
 ### Chapter 6 - Managing Multiple Teams
 - No more coding. You will miss coding.
 - Be fluent in at least one programming language before taking this role.
-- Manage your own time: Eisenhower Matrix.
+- Manage your own time: [Eisenhower Matrix](https://jamesclear.com/eisenhower-box).
 - How much time did you spent on non-urgent but important tasks?
 #### Delegate:
 - Simple	Delegate (if Frequest)	Do it yourself (if Infrequent)
