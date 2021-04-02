@@ -3,7 +3,7 @@ Summary of all things related to management or self-help
 
 ### [Project Management](#Project-Management-1)
 ### [Management 101](#Management)
-### [Team Leadership](#team-leadership)
+### [Team Leadership](#team-leadership-1)
 
 # Project Management 
 
