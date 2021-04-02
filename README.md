@@ -204,9 +204,11 @@ New set of skills and challenges.
 - Manage your own time: [Eisenhower Matrix](https://jamesclear.com/eisenhower-box).
 - How much time did you spent on non-urgent but important tasks?
 #### Delegate:
-- Simple	Delegate (if Frequest)	Do it yourself (if Infrequent)
-- Complex	Delegate carefully (if Frequest)	Delegate for training (if Infrequent)
+- Simple -	Delegate (if Frequest)	Do it yourself (if Infrequent)
+- Complex	- Delegate carefully (if Frequest)	Delegate for training (if Infrequent)
+```
 Delegation is essential for career growth.
+```
 #### Ways to say no:
 - “YES, AND …” state what would require to say yes or what it will impact.
 - Create policies that clearly define what is needed for a yes.
@@ -224,112 +226,112 @@ As a manager, your first team is not the people that report to you but your peer
 - Do I need to be doing this at all?
 - What value am I providing with this work?
 ### Chapter 7 - Managing Managers
-Same as managing multiple teams, but an order of magnitude bigger. New set of skills.
-Things are obscured by the additional level of abstraction.
-Skip-Level meetings:
-Critical to build trust and engagement.
-Either quarterly 1-2-1 or group lunches.
-Prompts in page 129.
-Open-Door policy does not work.
-Managers should make your life easier, by bringing clear problems before they turn into raging fires.
-Make managers accountable for their teams.
-New managers need a lot of coaching:
-How to do 1-2-1.
-How to let go previous work.
-How to not become a control freak.
-Find external training.
-Management is a very culture-specific task,
-Hence is better to promote people that has been in the company for long and already understand the culture.
-Culture fit more important than industry-specific knowledge.
-Hiring managers - Page 140:
-Do reference checks.
-Managing outside your skill set: be curious, ask questions, learn.
-Boring meetings are a sign of dysfunctional teams.
-People need to feel an understanding and connection with the purpose of their work.
-Your technical responsibility is to optimize tech investments by matching it to future product or customer needs.
+- Same as managing multiple teams, but an order of magnitude bigger. New set of skills.
+- Things are obscured by the additional level of abstraction.
+#### Skip-Level meetings:
+- Critical to build trust and engagement.
+- Either quarterly 1-2-1 or group lunches.
+- Prompts in page 129.
+- Open-Door policy does not work.
+```Managers should make your life easier, by bringing clear problems before they turn into raging fires.```
+- Make managers accountable for their teams.
+#### New managers need a lot of coaching:
+- How to do 1-2-1.
+- How to let go previous work.
+- How to not become a control freak.
+- Find external training.
+- Management is a very culture-specific task,
+- Hence is better to promote people that has been in the company for long and already understand the culture.
+- Culture fit more important than industry-specific knowledge.
+#### Hiring managers - Page 140:
+- Do reference checks.
+- Managing outside your skill set: be curious, ask questions, learn.
+```Boring meetings are a sign of dysfunctional teams.```
+- People need to feel an understanding and connection with the purpose of their work.
+- Your technical responsibility is to optimize tech investments by matching it to future product or customer needs.
 ### Chapter 8 - The Big Leagues
 As tech senior managers, we bring a willingness to embrace and drive change as needed.
-Be a leader; your company looks to you for:
-What to do.
-Where to go.
-How to act.
-How to think.
-What to value.
-Make hard decisions without perfect information.
-Understand current business landscape and plan for possible futures.
-Hold individuals/teams accountable.
-4 tasks:
-Information gathering or sharing.
-Nudging.
-Decision making.
-Role modeling.
-Possible roles:
-R&D.
-Tech strategy.
-Organization.
-Execution.
-External face of technology.
-Infrastructure and tech operations manager.
-Business executive.
-CTO must care about business and shape business strategy through the lens of technology.
-CTO without management responsibilities will have little influence.
-To make something top priority, ou need to explicitly kill or postpone in-flight work.
-You need to communicate things three or more times before it sinks.
-Setting strategy:
-Improve operational efficiency.
-Expand features.
-Grow the business.
-It entitles:
-Tech architecture.
-Team structure.
-Understanding direction of business.
-Delivery bad news:
-Do it by individuals or small groups.
-Must be in-person.
-Don’t force yourself to delive if you cannot stand behind it.
-Be honest.
-CEO as a boss:
-Getting 1-2-1 time is a challenge.
-Bring topics, set up agenda.
-Bring solutions, not problems.
-Ask for advice.
-Don’t be afraid of repeating yourself.
-Be supportive.
-Look for coaching and skills development in other places.
-Your team:
-Peers in other functions.
-First focus on the success of business, then on their departments.
-You trust them as experts in their areas.
-You trust they are not trying to undermine you.
-Disagreement in leadership team is ok, but once a decision is made, team shows a united front.
-You need to detach from your previous team:
-Avoid having favourites.
-People to take you seriously.
-People will copy your behaviours.
-Your presence will change the behaviour.
-Do not discuss uncertainty with your old peers.
-Care even more about individuals.
-True North: core principles that a person in a functional role must keep in mind as he does his job.
+#### Be a leader; your company looks to you for:
+- What to do.
+- Where to go.
+- How to act.
+- How to think.
+- What to value.
+```Make hard decisions without perfect information.```
+- Understand current business landscape and plan for possible futures.
+- Hold individuals/teams accountable.
+#### 4 tasks:
+- Information gathering or sharing.
+- Nudging.
+- Decision making.
+- Role modeling.
+#### Possible roles:
+- R&D.
+- Tech strategy.
+- Organization.
+- Execution.
+- External face of technology.
+- Infrastructure and tech operations manager.
+- Business executive.
+```CTO must care about business and shape business strategy through the lens of technology.```
+- CTO without management responsibilities will have little influence.
+- To make something top priority, ou need to explicitly kill or postpone in-flight work.
+- You need to communicate things three or more times before it sinks.
+#### Setting strategy:
+- Improve operational efficiency.
+- Expand features.
+- Grow the business.
+#### It entitles:
+- Tech architecture.
+- Team structure.
+- Understanding direction of business.
+#### Delivery of bad news:
+- Do it by individuals or small groups.
+- Must be in-person.
+- Don’t force yourself to delive if you cannot stand behind it.
+- Be honest.
+#### CEO as a boss:
+- Getting 1-2-1 time is a challenge.
+- Bring topics, set up agenda.
+- Bring solutions, not problems.
+- Ask for advice.
+- Don’t be afraid of repeating yourself.
+- Be supportive.
+- Look for coaching and skills development in other places.
+#### Your team:
+- Peers in other functions.
+- First focus on the success of business, then on their departments.
+- You trust them as experts in their areas.
+- You trust they are not trying to undermine you.
+- Disagreement in leadership team is ok, but once a decision is made, team shows a united front.
+#### You need to detach from your previous team:
+- Avoid having favourites.
+- People to take you seriously.
+- People will copy your behaviours.
+- Your presence will change the behaviour.
+- Do not discuss uncertainty with your old peers.
+- Care even more about individuals.
+- True North: core principles that a person in a functional role must keep in mind as he does his job.
 ### Chapter 9 - Bootstrapping Culture
-You need an hypothesis to learn from new processes and structures.
-Structure allow to scale, diversify and take on more complex long-term tasks.
-We learn the most from failures: examine failures to decide what structure needs to be added.
-Culture is how things get done, without people having to think about it – Frederick Laloux.
-You will be measured against the company’s values.
-If your values are not those of the company, you will struggle.
-Culture:
-Map company values to tech team, maybe adding a couple that are specially important.
-Reinforce by rewarding people that exhibit the values in a positive way.
-Use when hiring.
-Create a career ladder - Page 202.
-Process is risk management.
-Conclusion
-You have to be able to manage yourself if you want to be good at managing others.
-You need to understand yourself.
-Masters of working through conflict.
-Meditate.
-Get curious.
-Look for the other side of the story.
+- You need an hypothesis to learn from new processes and structures.
+- Structure allow to scale, diversify and take on more complex long-term tasks.
+- We learn the most from failures: examine failures to decide what structure needs to be added.
+- Culture is how things get done, without people having to think about it – Frederick Laloux.
+- You will be measured against the company’s values.
+- If your values are not those of the company, you will struggle.
+#### Culture:
+- Map company values to tech team, maybe adding a couple that are specially important.
+- Reinforce by rewarding people that exhibit the values in a positive way.
+- Use when hiring.
+- Create a career ladder - Page 202.
+- Process is risk management.
+### Conclusion
+- You have to be able to manage yourself if you want to be good at managing others.
+- You need to understand yourself.
+- Masters of working through conflict.
+- Meditate.
+- Get curious.
+- Look for the other side of the story.
 
 # Team Leadership
 
