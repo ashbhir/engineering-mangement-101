@@ -203,6 +203,9 @@ New set of skills and challenges.
 - Be fluent in at least one programming language before taking this role.
 - Manage your own time: [Eisenhower Matrix](https://jamesclear.com/eisenhower-box).
 - How much time did you spent on non-urgent but important tasks?
+
+![eisenhower-box](https://user-images.githubusercontent.com/12800313/113369536-34bf1600-937f-11eb-8346-0c2233c9af73.jpeg)
+
 #### Delegate:
 - Simple -	Delegate (if Frequest)	Do it yourself (if Infrequent)
 - Complex	- Delegate carefully (if Frequest)	Delegate for training (if Infrequent)
