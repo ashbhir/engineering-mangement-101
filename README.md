@@ -3,7 +3,7 @@ Summary of all things related to management or self-help
 
 ### [Project Management](#Project-Management-1)
 ### [Management 101](#Management)
-### [Team Leadership](#Team Leadership-1)
+### [Team Leadership](#team-leadership)
 
 # Project Management 
 
@@ -339,3 +339,5 @@ As tech senior managers, we bring a willingness to embrace and drive change as n
 # Team Leadership
 
 ## Five Dysfunctions of a team Summary
+
+https://internalchange.com/5-dysfunctions-of-a-team-summary/
